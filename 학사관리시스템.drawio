@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T02:25:07.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="xTToKGu52Q48kgNRgf8m" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T02:28:22.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="KaCnH5lnbzeVzYBnYcdJ" version="21.6.1" type="github">
   <diagram name="페이지-1" id="OtSnZ7Fpmzid03wB0cTe">
     <mxGraphModel dx="2327" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ooQJDoGlYzg7XLQ-L7oZ-17" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ooQJDoGlYzg7XLQ-L7oZ-16">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
